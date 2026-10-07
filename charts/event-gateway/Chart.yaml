@@ -1,6 +1,1 @@
-apiVersion: v2
-name: event-gateway
-description: Production Helm chart for Realtime Event Gateway
-version: 0.1.0
-appVersion: "0.1.0"
-type: application
+version: 0.1.1
